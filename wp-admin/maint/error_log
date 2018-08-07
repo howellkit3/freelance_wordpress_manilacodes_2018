@@ -1,0 +1,2 @@
+[09-Jul-2018 05:37:57 UTC] PHP Warning:  mysqli_real_connect(): (28000/1045): Access denied for user 'manilacodes'@'localhost' (using password: YES) in /home/manilacodes/public_html/wp-includes/wp-db.php on line 1531
+[09-Jul-2018 05:39:15 UTC] PHP Warning:  mysqli_real_connect(): (28000/1045): Access denied for user 'manilacodes'@'localhost' (using password: YES) in /home/manilacodes/public_html/wp-includes/wp-db.php on line 1531

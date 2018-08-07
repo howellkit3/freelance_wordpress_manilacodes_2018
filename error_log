@@ -1,0 +1,461 @@
+[03-Jun-2018 14:53:31 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/manilacodes/public_html/wp-content/themes/wp-bootstrap-starter/template-parts/content.php on line 30
+[03-Jun-2018 15:09:26 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting ',' or ';' in /home/manilacodes/public_html/wp-content/themes/wp-bootstrap-starter/template-parts/content.php on line 34
+[09-Jul-2018 06:18:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:406
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_title(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 406
+[09-Jul-2018 06:18:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:406
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_title(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 406
+[09-Jul-2018 06:18:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:406
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_title(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 406
+[09-Jul-2018 06:18:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:406
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_title(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 406
+[09-Jul-2018 06:18:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:406
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_title(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 406
+[09-Jul-2018 06:18:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:18:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:406
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_title(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 406
+[09-Jul-2018 06:18:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:406
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_title(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 406
+[09-Jul-2018 06:50:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:50:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:50:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:50:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:50:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:50:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 06:51:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mode() in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php:412
+Stack trace:
+#0 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-partial.php(203): illdy_about_general_entry(Object(WP_Customize_Partial), Array)
+#1 /home/manilacodes/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(387): WP_Customize_Partial->render(Array)
+#2 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/manilacodes/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/manilacodes/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/manilacodes/public_html/wp-includes/template-loader.php(12): do_action('template_redire...')
+#6 /home/manilacodes/public_html/wp-blog-header.php(19): require_once('/home/manilacod...')
+#7 /home/manilacodes/public_html/index.php(1 in /home/manilacodes/public_html/wp-content/themes/illdy/inc/customizer/customizer.php on line 412
+[09-Jul-2018 07:44:14 UTC] PHP Parse error:  syntax error, unexpected '448' (T_LNUMBER), expecting ',' or ')' in /home/manilacodes/public_html/wp-content/themes/illdy/sections/front-page-full-width.php on line 27
+[09-Jul-2018 07:44:42 UTC] PHP Parse error:  syntax error, unexpected '448' (T_LNUMBER), expecting ',' or ')' in /home/manilacodes/public_html/wp-content/themes/illdy/sections/front-page-full-width.php on line 27
+[09-Jul-2018 07:44:49 UTC] PHP Parse error:  syntax error, unexpected '448' (T_LNUMBER), expecting ',' or ')' in /home/manilacodes/public_html/wp-content/themes/illdy/sections/front-page-full-width.php on line 27
+[26-Jul-2018 17:57:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /home/manilacodes/public_html/wp-blog-header.php:16
+Stack trace:
+#0 /home/manilacodes/public_html/index.php(17): require()
+#1 {main}
+  thrown in /home/manilacodes/public_html/wp-blog-header.php on line 16
+[27-Jul-2018 12:09:41 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/kiwi-social-share/includes/lib/helpers/class-kiwi-social-share-helper.php on line 362
+[27-Jul-2018 12:09:44 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/kiwi-social-share/includes/lib/helpers/class-kiwi-social-share-helper.php on line 362
+[27-Jul-2018 12:09:48 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/kiwi-social-share/includes/lib/helpers/class-kiwi-social-share-helper.php on line 362
+[30-Jul-2018 09:17:45 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/kiwi-social-share/includes/lib/helpers/class-kiwi-social-share-helper.php on line 362
+[30-Jul-2018 10:03:42 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/kiwi-social-share/includes/lib/helpers/class-kiwi-social-share-helper.php on line 362
+[31-Jul-2018 10:03:02 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/kiwi-social-share/includes/lib/helpers/class-kiwi-social-share-helper.php on line 362
+[31-Jul-2018 10:10:53 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/kiwi-social-share/includes/lib/helpers/class-kiwi-social-share-helper.php on line 362
+[02-Aug-2018 10:15:27 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/kiwi-social-share/includes/lib/helpers/class-kiwi-social-share-helper.php on line 362
+[02-Aug-2018 10:15:27 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/kiwi-social-share/includes/lib/helpers/class-kiwi-social-share-helper.php on line 362
+[05-Aug-2018 03:32:17 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/kiwi-social-share/includes/lib/helpers/class-kiwi-social-share-helper.php on line 362
+[05-Aug-2018 03:32:48 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/kiwi-social-share/includes/lib/helpers/class-kiwi-social-share-helper.php on line 362

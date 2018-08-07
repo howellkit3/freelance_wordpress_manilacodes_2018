@@ -1,0 +1,416 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8
+MySQL version 		: 5.5.5
+PHP Version 		: 7.1.8
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 2 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 20:01:31 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 20:01:32 UTC
+
+---
+
+2. Importing "XML"  - 20:01:35 UTC
+Imported "Important Links" (nav_menu)
+Term 7 remapped to 4
+Imported "Top Nav" (nav_menu)
+Term 6 remapped to 5
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Imported "page" (elementor_library_type)
+Term 13 remapped to 6
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Imported "section" (elementor_library_type)
+Term 9 remapped to 7
+Imported "Home" (Page)
+Post 2 remapped to 106
+Imported "Contact form" (Contact Form)
+Post 5 remapped to 108
+Imported "About Us" (Page)
+Post 8 remapped to 109
+Imported "Contact" (Page)
+Post 10 remapped to 111
+Imported "Amenities" (Page)
+Post 12 remapped to 113
+Imported "Pricing" (Page)
+Post 14 remapped to 115
+Imported "" (Navigation Menu Item)
+Post 16 remapped to 117
+Processing menu item post_type
+Menu item 2 mapped to 106
+Imported "" (Navigation Menu Item)
+Post 17 remapped to 118
+Processing menu item post_type
+Menu item 8 mapped to 109
+Imported "" (Navigation Menu Item)
+Post 18 remapped to 119
+Processing menu item post_type
+Menu item 12 mapped to 113
+Imported "" (Navigation Menu Item)
+Post 19 remapped to 120
+Processing menu item post_type
+Menu item 14 mapped to 115
+Imported "" (Navigation Menu Item)
+Post 20 remapped to 121
+Processing menu item post_type
+Menu item 10 mapped to 111
+Imported "Terms and Conditions" (Navigation Menu Item)
+Post 21 remapped to 122
+Processing menu item custom
+Menu item 21 mapped to 122
+Imported "Legal" (Navigation Menu Item)
+Post 22 remapped to 123
+Processing menu item custom
+Menu item 22 mapped to 123
+Imported "Business" (Navigation Menu Item)
+Post 23 remapped to 124
+Processing menu item custom
+Menu item 23 mapped to 124
+Imported "Partners" (Navigation Menu Item)
+Post 24 remapped to 125
+Processing menu item custom
+Menu item 24 mapped to 125
+Imported "Blog" (Navigation Menu Item)
+Post 25 remapped to 126
+Processing menu item custom
+Menu item 25 mapped to 126
+Imported "logo" (Media)
+Post 26 remapped to 127
+Imported "logo 2x" (Media)
+Post 28 remapped to 128
+Imported "favicon" (Media)
+Post 29 remapped to 129
+Imported "astra" (Custom CSS)
+Post 34 remapped to 130
+Imported "home background" (Media)
+Post 38 remapped to 131
+Imported "about us" (Media)
+Post 40 remapped to 132
+Imported "24 hours" (Media)
+Post 42 remapped to 133
+Imported "conference" (Media)
+Post 43 remapped to 134
+Imported "fast internet" (Media)
+Post 44 remapped to 135
+Imported "kitchen" (Media)
+Post 45 remapped to 136
+Imported "printer" (Media)
+Post 46 remapped to 137
+Imported "gallery image" (Media)
+Post 48 remapped to 138
+Imported "gallery image" (Media)
+Post 49 remapped to 139
+Imported "gallery image" (Media)
+Post 50 remapped to 140
+Imported "gallery image" (Media)
+Post 51 remapped to 141
+Imported "about us" (Media)
+Post 58 remapped to 142
+Imported "logo transparent" (Media)
+Post 59 remapped to 143
+Imported "analytics" (Media)
+Post 60 remapped to 144
+Imported "girl working" (Media)
+Post 61 remapped to 145
+Imported "conference room" (Media)
+Post 62 remapped to 146
+Imported "founder" (Media)
+Post 63 remapped to 147
+Imported "manager" (Media)
+Post 64 remapped to 148
+Imported "receptionist" (Media)
+Post 65 remapped to 149
+Imported "client" (Media)
+Post 67 remapped to 150
+Imported "client" (Media)
+Post 68 remapped to 151
+Imported "client" (Media)
+Post 69 remapped to 152
+Imported "client" (Media)
+Post 70 remapped to 153
+Imported "client" (Media)
+Post 71 remapped to 154
+Imported "amanities" (Media)
+Post 79 remapped to 155
+Imported "work floor" (Media)
+Post 81 remapped to 156
+Imported "kitchen" (Media)
+Post 82 remapped to 157
+Imported "conference room" (Media)
+Post 83 remapped to 158
+Imported "Header" (Template)
+Post 86 remapped to 159
+Imported "Section (Use only heading)" (Template)
+Post 88 remapped to 160
+Imported "Content" (Template)
+Post 93 remapped to 161
+Imported "map marker" (Media)
+Post 100 remapped to 162
+Imported "Yoast SEO Image" (Media)
+Post 109 remapped to 163
+Running post-processing for post 106
+Could not find the author for "Home" (post #106)
+Post 106 was imported with author "harshadd", but could not be found
+Post 106 was marked for post-processing, but none was required.
+Running post-processing for post 108
+Could not find the author for "Contact form" (post #108)
+Post 108 was imported with author "harshadd", but could not be found
+Post 108 was marked for post-processing, but none was required.
+Running post-processing for post 109
+Could not find the author for "About Us" (post #109)
+Post 109 was imported with author "harshadd", but could not be found
+Post 109 was marked for post-processing, but none was required.
+Running post-processing for post 111
+Could not find the author for "Contact" (post #111)
+Post 111 was imported with author "harshadd", but could not be found
+Post 111 was marked for post-processing, but none was required.
+Running post-processing for post 113
+Could not find the author for "Amenities" (post #113)
+Post 113 was imported with author "harshadd", but could not be found
+Post 113 was marked for post-processing, but none was required.
+Running post-processing for post 115
+Could not find the author for "Pricing" (post #115)
+Post 115 was imported with author "harshadd", but could not be found
+Post 115 was marked for post-processing, but none was required.
+Running post-processing for post 117
+Could not find the author for "" (post #117)
+Post 117 was imported with author "harshadd", but could not be found
+Post 117 was marked for post-processing, but none was required.
+Running post-processing for post 118
+Could not find the author for "" (post #118)
+Post 118 was imported with author "harshadd", but could not be found
+Post 118 was marked for post-processing, but none was required.
+Running post-processing for post 119
+Could not find the author for "" (post #119)
+Post 119 was imported with author "harshadd", but could not be found
+Post 119 was marked for post-processing, but none was required.
+Running post-processing for post 120
+Could not find the author for "" (post #120)
+Post 120 was imported with author "harshadd", but could not be found
+Post 120 was marked for post-processing, but none was required.
+Running post-processing for post 121
+Could not find the author for "" (post #121)
+Post 121 was imported with author "harshadd", but could not be found
+Post 121 was marked for post-processing, but none was required.
+Running post-processing for post 122
+Could not find the author for "Terms and Conditions" (post #122)
+Post 122 was imported with author "harshadd", but could not be found
+Post 122 was marked for post-processing, but none was required.
+Running post-processing for post 123
+Could not find the author for "Legal" (post #123)
+Post 123 was imported with author "harshadd", but could not be found
+Post 123 was marked for post-processing, but none was required.
+Running post-processing for post 124
+Could not find the author for "Business" (post #124)
+Post 124 was imported with author "harshadd", but could not be found
+Post 124 was marked for post-processing, but none was required.
+Running post-processing for post 125
+Could not find the author for "Partners" (post #125)
+Post 125 was imported with author "harshadd", but could not be found
+Post 125 was marked for post-processing, but none was required.
+Running post-processing for post 126
+Could not find the author for "Blog" (post #126)
+Post 126 was imported with author "harshadd", but could not be found
+Post 126 was marked for post-processing, but none was required.
+Running post-processing for post 127
+Could not find the author for "logo" (post #127)
+Post 127 was imported with author "harshadd", but could not be found
+Post 127 was marked for post-processing, but none was required.
+Running post-processing for post 128
+Could not find the author for "logo 2x" (post #128)
+Post 128 was imported with author "harshadd", but could not be found
+Post 128 was marked for post-processing, but none was required.
+Running post-processing for post 129
+Could not find the author for "favicon" (post #129)
+Post 129 was imported with author "harshadd", but could not be found
+Post 129 was marked for post-processing, but none was required.
+Running post-processing for post 130
+Could not find the author for "astra" (post #130)
+Post 130 was imported with author "harshadd", but could not be found
+Post 130 was marked for post-processing, but none was required.
+Running post-processing for post 131
+Could not find the author for "home background" (post #131)
+Post 131 was imported with author "harshadd", but could not be found
+Post 131 was marked for post-processing, but none was required.
+Running post-processing for post 132
+Could not find the author for "about us" (post #132)
+Post 132 was imported with author "harshadd", but could not be found
+Post 132 was marked for post-processing, but none was required.
+Running post-processing for post 133
+Could not find the author for "24 hours" (post #133)
+Post 133 was imported with author "harshadd", but could not be found
+Post 133 was marked for post-processing, but none was required.
+Running post-processing for post 134
+Could not find the author for "conference" (post #134)
+Post 134 was imported with author "harshadd", but could not be found
+Post 134 was marked for post-processing, but none was required.
+Running post-processing for post 135
+Could not find the author for "fast internet" (post #135)
+Post 135 was imported with author "harshadd", but could not be found
+Post 135 was marked for post-processing, but none was required.
+Running post-processing for post 136
+Could not find the author for "kitchen" (post #136)
+Post 136 was imported with author "harshadd", but could not be found
+Post 136 was marked for post-processing, but none was required.
+Running post-processing for post 137
+Could not find the author for "printer" (post #137)
+Post 137 was imported with author "harshadd", but could not be found
+Post 137 was marked for post-processing, but none was required.
+Running post-processing for post 138
+Could not find the author for "gallery image" (post #138)
+Post 138 was imported with author "harshadd", but could not be found
+Post 138 was marked for post-processing, but none was required.
+Running post-processing for post 139
+Could not find the author for "gallery image" (post #139)
+Post 139 was imported with author "harshadd", but could not be found
+Post 139 was marked for post-processing, but none was required.
+Running post-processing for post 140
+Could not find the author for "gallery image" (post #140)
+Post 140 was imported with author "harshadd", but could not be found
+Post 140 was marked for post-processing, but none was required.
+Running post-processing for post 141
+Could not find the author for "gallery image" (post #141)
+Post 141 was imported with author "harshadd", but could not be found
+Post 141 was marked for post-processing, but none was required.
+Running post-processing for post 142
+Could not find the author for "about us" (post #142)
+Post 142 was imported with author "harshadd", but could not be found
+Post 142 was marked for post-processing, but none was required.
+Running post-processing for post 143
+Could not find the author for "logo transparent" (post #143)
+Post 143 was imported with author "harshadd", but could not be found
+Post 143 was marked for post-processing, but none was required.
+Running post-processing for post 144
+Could not find the author for "analytics" (post #144)
+Post 144 was imported with author "harshadd", but could not be found
+Post 144 was marked for post-processing, but none was required.
+Running post-processing for post 145
+Could not find the author for "girl working" (post #145)
+Post 145 was imported with author "harshadd", but could not be found
+Post 145 was marked for post-processing, but none was required.
+Running post-processing for post 146
+Could not find the author for "conference room" (post #146)
+Post 146 was imported with author "harshadd", but could not be found
+Post 146 was marked for post-processing, but none was required.
+Running post-processing for post 147
+Could not find the author for "founder" (post #147)
+Post 147 was imported with author "harshadd", but could not be found
+Post 147 was marked for post-processing, but none was required.
+Running post-processing for post 148
+Could not find the author for "manager" (post #148)
+Post 148 was imported with author "harshadd", but could not be found
+Post 148 was marked for post-processing, but none was required.
+Running post-processing for post 149
+Could not find the author for "receptionist" (post #149)
+Post 149 was imported with author "harshadd", but could not be found
+Post 149 was marked for post-processing, but none was required.
+Running post-processing for post 150
+Could not find the author for "client" (post #150)
+Post 150 was imported with author "harshadd", but could not be found
+Post 150 was marked for post-processing, but none was required.
+Running post-processing for post 151
+Could not find the author for "client" (post #151)
+Post 151 was imported with author "harshadd", but could not be found
+Post 151 was marked for post-processing, but none was required.
+Running post-processing for post 152
+Could not find the author for "client" (post #152)
+Post 152 was imported with author "harshadd", but could not be found
+Post 152 was marked for post-processing, but none was required.
+Running post-processing for post 153
+Could not find the author for "client" (post #153)
+Post 153 was imported with author "harshadd", but could not be found
+Post 153 was marked for post-processing, but none was required.
+Running post-processing for post 154
+Could not find the author for "client" (post #154)
+Post 154 was imported with author "harshadd", but could not be found
+Post 154 was marked for post-processing, but none was required.
+Running post-processing for post 155
+Could not find the author for "amanities" (post #155)
+Post 155 was imported with author "harshadd", but could not be found
+Post 155 was marked for post-processing, but none was required.
+Running post-processing for post 156
+Could not find the author for "work floor" (post #156)
+Post 156 was imported with author "harshadd", but could not be found
+Post 156 was marked for post-processing, but none was required.
+Running post-processing for post 157
+Could not find the author for "kitchen" (post #157)
+Post 157 was imported with author "harshadd", but could not be found
+Post 157 was marked for post-processing, but none was required.
+Running post-processing for post 158
+Could not find the author for "conference room" (post #158)
+Post 158 was imported with author "harshadd", but could not be found
+Post 158 was marked for post-processing, but none was required.
+Running post-processing for post 159
+Could not find the author for "Header" (post #159)
+Post 159 was imported with author "harshadd", but could not be found
+Post 159 was marked for post-processing, but none was required.
+Running post-processing for post 160
+Could not find the author for "Section (Use only heading)" (post #160)
+Post 160 was imported with author "harshadd", but could not be found
+Post 160 was marked for post-processing, but none was required.
+Running post-processing for post 161
+Could not find the author for "Content" (post #161)
+Post 161 was imported with author "harshadd", but could not be found
+Post 161 was marked for post-processing, but none was required.
+Running post-processing for post 162
+Could not find the author for "map marker" (post #162)
+Post 162 was imported with author "harshadd", but could not be found
+Post 162 was marked for post-processing, but none was required.
+Running post-processing for post 163
+Could not find the author for "Yoast SEO Image" (post #163)
+Post 163 was imported with author "harshadd", but could not be found
+Post 163 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 20:02:44 UTC
+
+---
+
+4. Importing "Widgets"  - 20:02:46 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Widget already exists
+Widget: "Recent Posts" - Widget already exists
+Widget: "Recent Comments" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Categories" - Widget already exists
+Widget: "Meta" - Widget already exists
+Sidebar: header-widget
+Widget: "SiteOrigin Social Media Buttons" - Imported
+Sidebar: advanced-footer-widget-1
+Widget: "Image" - Imported
+Widget: "Text" - Imported
+Sidebar: advanced-footer-widget-2
+Widget: "Navigation Menu" - Imported
+Sidebar: advanced-footer-widget-3
+Widget: "Navigation Menu" - Imported
+Sidebar: advanced-footer-widget-4
+Widget: "Text" - Imported
+Widget: "SiteOrigin Button" - Imported
+
+---
+
+Import Complete!  - 20:02:49 UTC

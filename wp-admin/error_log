@@ -1,0 +1,23 @@
+[25-Jul-2018 18:26:55 UTC] PHP Warning:  mysqli_real_connect(): (28000/1045): Access denied for user 'manilacodes'@'localhost' (using password: YES) in /home/manilacodes/public_html/wp-includes/wp-db.php on line 1531
+[25-Jul-2018 18:32:54 UTC] PHP Warning:  mysqli_real_connect(): (28000/1045): Access denied for user 'manilacodes'@'localhost' (using password: YES) in /home/manilacodes/public_html/wp-includes/wp-db.php on line 1531
+[25-Jul-2018 18:32:55 UTC] PHP Warning:  mysqli_real_connect(): (28000/1045): Access denied for user 'manilacodes'@'localhost' (using password: YES) in /home/manilacodes/public_html/wp-includes/wp-db.php on line 1531
+[25-Jul-2018 18:33:14 UTC] PHP Warning:  mysqli_real_connect(): (28000/1045): Access denied for user 'manilacodes'@'localhost' (using password: YES) in /home/manilacodes/public_html/wp-includes/wp-db.php on line 1531
+[25-Jul-2018 18:36:12 UTC] PHP Warning:  mysqli_real_connect(): (28000/1045): Access denied for user 'manilacodes'@'localhost' (using password: YES) in /home/manilacodes/public_html/wp-includes/wp-db.php on line 1531
+[25-Jul-2018 18:36:13 UTC] PHP Warning:  mysqli_real_connect(): (28000/1045): Access denied for user 'manilacodes'@'localhost' (using password: YES) in /home/manilacodes/public_html/wp-includes/wp-db.php on line 1531
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 342
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 342
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 343
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 344
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 342
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 342
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 343
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 344
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 342
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 342
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 343
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 344
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 342
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 342
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 343
+[28-Jul-2018 20:13:23 UTC] PHP Notice:  Trying to get property of non-object in /home/manilacodes/public_html/wp-content/plugins/carousel-slider/includes/class-carousel-slider-form.php on line 344
+[30-Jul-2018 10:45:02 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/manilacodes/public_html/wp-includes/wp-db.php on line 1531
