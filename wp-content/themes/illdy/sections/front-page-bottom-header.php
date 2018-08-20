@@ -27,7 +27,7 @@ if ( $jumbotron_title || $entry || $first_button_title || $second_button_title )
 
 	?>
 	<div class="bottom-header front-page">
-		<div class="container">
+		<div class="container" style="display:none">
 			<div class="row">
 				<?php if ( $jumbotron_title ): ?>
 					<div class="col-sm-12">

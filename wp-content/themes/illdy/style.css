@@ -21,6 +21,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 
 .top-header {
 	padding: 10px 0 !important;
+	padding-bottom: 0px!important;
 }
 
 #full-width {
@@ -31,4 +32,24 @@ Use it to make something cool, have fun, and share what you've learned with othe
 .bottom-footer {
 	margin-top: 0 !important;
 	padding: 15px 0 !important;
+}
+
+.contact-details {
+    background: #292f36;
+    position: relative;
+    top: -10px;
+    padding-top: 10px;
+}
+
+div.blog {
+	padding-top: 40px !important;
+	padding-bottom: 30px !important;
+}
+
+#blog {
+    padding: 50px 0 0px 0;
+}
+
+ul.kiwi-article-bar {
+	padding-bottom: 30px!important;
 }

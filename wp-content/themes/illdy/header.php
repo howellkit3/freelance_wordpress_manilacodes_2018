@@ -59,7 +59,7 @@ if ( ( is_single() || is_page() || is_archive() ) && get_theme_mod( 'illdy_archi
 <header id="header" class="<?php if ( get_option( 'show_on_front' ) == 'page' && is_front_page() ): echo 'header-front-page';
 else: echo 'header-blog'; endif; ?>" style="<?php echo $style ?>">
 	<div class="top-header">
-		<div class="col-sm-12">
+		<div class="col-sm-12 contact-details">
 			<ul class="contact-info">
 				<li><i class="fa fa fa-phone"></i> &nbsp; <a href="tel:025178969">(02) 517 8969</a></li>
 				<li><i class="fa fa fa-mobile-phone"></i>  &nbsp; <a href="tel:+639459774048">0945 977 4048</a></li>
@@ -112,8 +112,10 @@ else: echo 'header-blog'; endif; ?>" style="<?php echo $style ?>">
 			?>
 		</ul>
 	</nav><!--/.responsive-menu-->
+
 	<?php
 	if ( get_option( 'show_on_front' ) == 'page' && is_front_page() ):
+		echo do_shortcode('[fwrsw_print_responsive_full_width_slider_wp]');
 		get_template_part( 'sections/front-page', 'bottom-header' );
 	else:
 		get_template_part( 'sections/blog', 'bottom-header' );

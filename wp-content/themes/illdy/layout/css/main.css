@@ -167,7 +167,7 @@ a:hover, a:focus {
 }
 
 #header .top-header {
-	background: rgba(255,255,255, 0.7);
+	background: white;
 	width: 100%;
 	padding: 40px 0;
 }
@@ -318,7 +318,7 @@ a:hover, a:focus {
 
 #header .bottom-header {
 	width: 100%;
-	padding-top: 240px;
+	padding-top: 220px;
 	padding-bottom: 280px;
 	text-align: center;
 }
@@ -2621,6 +2621,24 @@ p.mb32 {
 	z-index: 0 !important;
 }
 
+#about {
+	background-color:white!important;
+	margin-top: 60px!important;
+}
+
+#about .section-header .section-description {
+	color: black!important;
+}
+
+#services_bk h3, #services_bk h5 {	
+	color: #eba31e!important;
+}
+
+#services_bk .section-header {	
+	padding-top: 90px!important;
+}
+
+
 @media only screen and (max-width: 1024px) {
 	#header {
 		background-attachment: initial !important;
@@ -2633,7 +2651,6 @@ p.mb32 {
 	#header .contact-info {
 		display: none;
 	}
-
 
 	.open-responsive-menu {
 		height: 100%;
@@ -2834,9 +2851,33 @@ p.mb32 {
 	}
 }
 
+@media only screen and (max-width: 768px) {
+	header .bottom-header {
+		padding-top: 120px!important;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	header .bottom-header {
+		padding-top: 12px!important;
+	}
+}
+
+
+@media only screen and (max-width: 360px) {
+	header .bottom-header {
+		padding-top: 12px!important;
+	}
+}
+
+
 @media only screen and (max-width: 320px) {
+	header .bottom-header {
+		padding-top: 12px!important;
+	}
+
 	#team .section-content .person .person-image {
-		width: 100%;
+		width: 100%; 
 		margin-right: 0;
 		margin-bottom: 20px;
 	}
