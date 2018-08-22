@@ -1064,3 +1064,39 @@ Stack trace:
 [22-Aug-2018 12:34:28 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
 [22-Aug-2018 12:35:28 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 12
 [22-Aug-2018 12:35:28 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
+[22-Aug-2018 14:55:29 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, boolean given in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/class-fusion-slider.php on line 285
+[22-Aug-2018 14:55:29 UTC] PHP Notice:  Undefined index: slider_width in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 17
+[22-Aug-2018 14:55:29 UTC] PHP Notice:  Undefined index: slider_height in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 21
+[22-Aug-2018 14:55:29 UTC] PHP Notice:  Undefined index: full_screen in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 37
+[22-Aug-2018 14:55:29 UTC] PHP Notice:  Undefined index: parallax in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 66
+[22-Aug-2018 14:55:29 UTC] PHP Notice:  Undefined index: nav_arrows in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 74
+[22-Aug-2018 14:55:29 UTC] PHP Notice:  Undefined index: autoplay in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 103
+[22-Aug-2018 14:55:29 UTC] PHP Notice:  Undefined index: loop in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 111
+[22-Aug-2018 14:55:29 UTC] PHP Notice:  Undefined index: animation in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 142
+[22-Aug-2018 14:55:29 UTC] PHP Notice:  Undefined index: animation in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 143
+[22-Aug-2018 14:55:29 UTC] PHP Notice:  Undefined index: slideshow_speed in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 151
+[22-Aug-2018 14:55:29 UTC] PHP Notice:  Undefined index: animation_speed in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 158
+[22-Aug-2018 14:56:09 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, boolean given in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/class-fusion-slider.php on line 285
+[22-Aug-2018 14:56:09 UTC] PHP Notice:  Undefined index: slider_width in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 17
+[22-Aug-2018 14:56:09 UTC] PHP Notice:  Undefined index: slider_height in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 21
+[22-Aug-2018 14:56:09 UTC] PHP Notice:  Undefined index: full_screen in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 37
+[22-Aug-2018 14:56:09 UTC] PHP Notice:  Undefined index: parallax in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 66
+[22-Aug-2018 14:56:09 UTC] PHP Notice:  Undefined index: nav_arrows in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 74
+[22-Aug-2018 14:56:09 UTC] PHP Notice:  Undefined index: autoplay in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 103
+[22-Aug-2018 14:56:09 UTC] PHP Notice:  Undefined index: loop in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 111
+[22-Aug-2018 14:56:09 UTC] PHP Notice:  Undefined index: animation in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 142
+[22-Aug-2018 14:56:09 UTC] PHP Notice:  Undefined index: animation in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 143
+[22-Aug-2018 14:56:09 UTC] PHP Notice:  Undefined index: slideshow_speed in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 151
+[22-Aug-2018 14:56:09 UTC] PHP Notice:  Undefined index: animation_speed in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 158
+[22-Aug-2018 14:56:33 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, boolean given in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/class-fusion-slider.php on line 285
+[22-Aug-2018 14:56:33 UTC] PHP Notice:  Undefined index: slider_width in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 17
+[22-Aug-2018 14:56:33 UTC] PHP Notice:  Undefined index: slider_height in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 21
+[22-Aug-2018 14:56:33 UTC] PHP Notice:  Undefined index: full_screen in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 37
+[22-Aug-2018 14:56:33 UTC] PHP Notice:  Undefined index: parallax in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 66
+[22-Aug-2018 14:56:33 UTC] PHP Notice:  Undefined index: nav_arrows in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 74
+[22-Aug-2018 14:56:33 UTC] PHP Notice:  Undefined index: autoplay in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 103
+[22-Aug-2018 14:56:33 UTC] PHP Notice:  Undefined index: loop in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 111
+[22-Aug-2018 14:56:33 UTC] PHP Notice:  Undefined index: animation in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 142
+[22-Aug-2018 14:56:33 UTC] PHP Notice:  Undefined index: animation in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 143
+[22-Aug-2018 14:56:33 UTC] PHP Notice:  Undefined index: slideshow_speed in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 151
+[22-Aug-2018 14:56:33 UTC] PHP Notice:  Undefined index: animation_speed in /home/manilacodes/public_html/wp-content/plugins/fusion-core/fusion-slider/templates/edit-meta-fields.php on line 158
