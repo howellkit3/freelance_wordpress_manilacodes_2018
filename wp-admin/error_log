@@ -1038,3 +1038,27 @@ Stack trace:
 [20-Aug-2018 11:03:07 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/manilacodes/public_html/wp-includes/wp-db.php on line 1531
 [20-Aug-2018 11:03:20 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/manilacodes/public_html/wp-includes/wp-db.php on line 1531
 [20-Aug-2018 11:03:35 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/manilacodes/public_html/wp-includes/wp-db.php on line 1531
+[22-Aug-2018 01:37:20 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 12
+[22-Aug-2018 01:37:20 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
+[22-Aug-2018 12:10:04 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 12
+[22-Aug-2018 12:10:04 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
+[22-Aug-2018 12:19:02 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 12
+[22-Aug-2018 12:19:02 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
+[22-Aug-2018 12:19:07 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 12
+[22-Aug-2018 12:19:07 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
+[22-Aug-2018 12:19:18 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 12
+[22-Aug-2018 12:19:18 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
+[22-Aug-2018 12:19:18 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 12
+[22-Aug-2018 12:19:18 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
+[22-Aug-2018 12:30:27 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 12
+[22-Aug-2018 12:30:27 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
+[22-Aug-2018 12:30:51 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 12
+[22-Aug-2018 12:30:51 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
+[22-Aug-2018 12:31:24 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 12
+[22-Aug-2018 12:31:24 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
+[22-Aug-2018 12:32:05 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 12
+[22-Aug-2018 12:32:05 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
+[22-Aug-2018 12:32:27 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 12
+[22-Aug-2018 12:32:27 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
+[22-Aug-2018 12:34:28 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 12
+[22-Aug-2018 12:34:28 UTC] PHP Notice:  Undefined index: key in /home/manilacodes/public_html/wp-content/plugins/aksimet/index.php on line 19
